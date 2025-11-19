@@ -1,12 +1,12 @@
 ### REQUIREMENTS OF AR AUTHORING SYSTEM
 
-1. Content Creation Support
-2. Real-Time Rendering
-3. Tracking and Registration
-4. User Interaction Support
-5. Cross-Platform Deployment
-6. Ease of Use / User-Friendly Interface
-7. Performance Optimization
-8. Integration with Hardware
-9. Support for Multiple File Formats
-10. Debugging and Simulation Tools
+1. Ease of Use & Intuitive Interface
+2. Support for Multiple Tracking Methods
+3. Cross-Platform Deployment
+4. Scene Management and 3D Content Handling
+5. Real-Time Rendering and Performance Optimization
+6. Interaction Authoring
+7. Multi-Sensor Integration
+8. Preview, Debugging, and Testing Tools
+9. Extensibility and Scripting Support
+10. Content Management and Version Control
