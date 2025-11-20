@@ -15,31 +15,31 @@
 
 **3. User Interfaces (Tangible, Virtual, Multiview)**
 * **Count: 3** | **Questions:**
-    - [ ] 6. Explain the terms tangible interfaces, virtual user interfaces on real surfaces, Multiview interfaces with respect to ARVR.
-    - [ ] 7. Compare Tangible User Interface with Virtual User Interface.
+    - [x] 6. Explain the terms tangible interfaces, virtual user interfaces on real surfaces, Multiview interfaces with respect to ARVR.
+    - [x] 7. Compare Tangible User Interface with Virtual User Interface.
 
 **4. VR System Components & Input Devices**
 * **Count: 3** | **Questions:**
-    - [ ] 8. Define Virtual reality. Explain the components of it with diagram.
-    - [ ] 9. Explain the components of VR System.
-    - [ ] 10. What are all Input devices used in VR? How does game controller, joysticks and gloves devices are used in VR?
-    - [ ] 11. Explain different input devices in VR system.
+    - [x] 8. Define Virtual reality. Explain the components of it with diagram.
+    - [x] 9. Explain the components of VR System.
+    - [x] 10. What are all Input devices used in VR? How does game controller, joysticks and gloves devices are used in VR?
+    - [x] 11. Explain different input devices in VR system.
 
 **5. Multimodal Displays**
 * **Count: 3** | **Questions:**
-    - [ ] 12. Discuss in detail: multimodal display, optical tracking, Natural Feature Tracking by Detection.
-    - [ ] 13. Describe Multimodal displays.
+    - [x] 12. Discuss in detail: multimodal display, optical tracking, Natural Feature Tracking by Detection.
+    - [x] 13. Describe Multimodal displays.
 
 **6. Architecture of Mixed Reality (MR)**
 * **Count: 3** | **Questions:**
-    - [ ] 14. Explain the general architecture of Mixed Reality System in brief.
-    - [ ] 15. Explain the general architecture of mixed reality systems and its significance.
-    - [ ] 16. Write the algorithm steps of Mixed Reality.
+    - [x] 14. Explain the general architecture of Mixed Reality System in brief.
+    - [x] 15. Explain the general architecture of mixed reality systems and its significance.
+    - [x] 16. Write the algorithm steps of Mixed Reality.
 
 **7. VRML (Virtual Reality Modeling Language)**
 * **Count: 3** | **Questions:**
-    - [ ] 17. Discuss in detail VRML.
-    - [ ] 18. Write a short note on: VRML.
+    - [x] 17. Discuss in detail VRML.
+    - [x] 18. Write a short note on: VRML.
 
 ---
 
@@ -47,21 +47,21 @@
 
 **8. Tracking Systems (Stationary vs. Mobile & General Tracking)**
 * **Count: 2** | **Questions:**
-    - [ ] 19. Compare and contrast stationary tracking systems and mobile sensors in AR/MR applications, discussing their respective advantages and limitations.
-    - [ ] 20. Compare stationary and mobile tracking systems in AR with examples.
-    - [ ] 21. Explain the principles behind camera-based tracking and its advantages and limitations.
+    - [x] 19. Compare and contrast stationary tracking systems and mobile sensors in AR/MR applications, discussing their respective advantages and limitations.
+    - [x] 20. Compare stationary and mobile tracking systems in AR with examples.
+    - [x] 21. Explain the principles behind camera-based tracking and its advantages and limitations.
 
 **9. Advanced Tracking (Sensor Fusion, Outdoor, Infrared)**
 * **Count: 2** | **Questions:**
-    - [ ] 22. Explain the terms Sensor fusion, outdoor tracking, multiple camera infrared tracking.
-    - [ ] 23. Discuss the role of tracking hardware, such as IMUs and gyroscopes, in VR systems.
-    - [ ] 24. Write a short note on: Gyroscope and accelerometer.
+    - [x] 22. Explain the terms Sensor fusion, outdoor tracking, multiple camera infrared tracking.
+    - [x] 23. Discuss the role of tracking hardware, such as IMUs and gyroscopes, in VR systems.
+    - [x] 24. Write a short note on: Gyroscope and accelerometer.
 
 **10. Comparison of Realities (MR, VR, IR, XR)**
 * **Count: 2** | **Questions:**
-    - [ ] 25. Compare and contrast Mixed Reality, Virtual Reality, Immersive Reality and Extended Reality.
-    - [ ] 26. Compare mixed reality, virtual reality, immersive reality, extended reality with diagram.
-    - [ ] 27. Compare augmented reality and virtual reality based on their applications and technologies.
+    - [x] 25. Compare and contrast Mixed Reality, Virtual Reality, Immersive Reality and Extended Reality.
+    - [x] 26. Compare mixed reality, virtual reality, immersive reality, extended reality with diagram.
+    - [x] 27. Compare augmented reality and virtual reality based on their applications and technologies.
 
 **11. Degrees of Freedom (6DOF)**
 * **Count: 2** | **Questions:**
